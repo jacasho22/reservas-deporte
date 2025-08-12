@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reservas-deporte/static/css/main.41e4039c.css",
+    "main.js": "/reservas-deporte/static/js/main.a8101016.js",
+    "static/js/453.1174e1e6.chunk.js": "/reservas-deporte/static/js/453.1174e1e6.chunk.js",
+    "index.html": "/reservas-deporte/index.html",
+    "main.41e4039c.css.map": "/reservas-deporte/static/css/main.41e4039c.css.map",
+    "main.a8101016.js.map": "/reservas-deporte/static/js/main.a8101016.js.map",
+    "453.1174e1e6.chunk.js.map": "/reservas-deporte/static/js/453.1174e1e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e4039c.css",
+    "static/js/main.a8101016.js"
+  ]
+}
